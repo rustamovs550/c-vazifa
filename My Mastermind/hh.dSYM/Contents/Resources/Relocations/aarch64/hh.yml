@@ -1,7 +1,8 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/user/Documents/Mening qilgan vazifalarim/C/My Mastermind/hh'
+binary-path:     '/Users/user/Documents/Mening qilgan vazifalarim/C darslari/My Mastermind/hh'
 relocations:
-  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F48, symSize: 0x50 }
-  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F48, symSize: 0x50 }
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _togri_va_notogri_joylar, symObjAddr: 0x0, symBinAddr: 0x100003C50, symSize: 0x1D4 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _togri_va_notogri_joylar, symObjAddr: 0x0, symBinAddr: 0x100003C50, symSize: 0x1D4 }
+  - { offsetInCU: 0xC7, offset: 0xC7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1D4, symBinAddr: 0x100003E24, symSize: 0xE0 }
 ...
